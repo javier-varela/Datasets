@@ -1,0 +1,373 @@
+﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Ecuador,1985,male,75+ years,8,40000,20,Ecuador1985,0.631,"17,149,094,590",2238,G.I. Generation
+Ecuador,1985,male,25-34 years,70,610800,11.46,Ecuador1985,0.631,"17,149,094,590",2238,Boomers
+Ecuador,1985,male,55-74 years,33,289000,11.42,Ecuador1985,0.631,"17,149,094,590",2238,G.I. Generation
+Ecuador,1985,male,15-24 years,104,915700,11.36,Ecuador1985,0.631,"17,149,094,590",2238,Generation X
+Ecuador,1985,male,35-54 years,57,692800,8.23,Ecuador1985,0.631,"17,149,094,590",2238,Silent
+Ecuador,1985,female,15-24 years,58,897700,6.46,Ecuador1985,0.631,"17,149,094,590",2238,Generation X
+Ecuador,1985,female,25-34 years,31,600800,5.16,Ecuador1985,0.631,"17,149,094,590",2238,Boomers
+Ecuador,1985,female,75+ years,2,49000,4.08,Ecuador1985,0.631,"17,149,094,590",2238,G.I. Generation
+Ecuador,1985,female,35-54 years,15,692800,2.17,Ecuador1985,0.631,"17,149,094,590",2238,Silent
+Ecuador,1985,female,55-74 years,4,303000,1.32,Ecuador1985,0.631,"17,149,094,590",2238,G.I. Generation
+Ecuador,1985,male,5-14 years,7,1307600,0.54,Ecuador1985,0.631,"17,149,094,590",2238,Generation X
+Ecuador,1985,female,5-14 years,4,1262600,0.32,Ecuador1985,0.631,"17,149,094,590",2238,Generation X
+Ecuador,1986,male,75+ years,6,41100,14.6,Ecuador1986,,"15,314,143,988",1943,G.I. Generation
+Ecuador,1986,male,25-34 years,67,628400,10.66,Ecuador1986,,"15,314,143,988",1943,Boomers
+Ecuador,1986,male,55-74 years,28,297200,9.42,Ecuador1986,,"15,314,143,988",1943,G.I. Generation
+Ecuador,1986,male,15-24 years,87,941900,9.24,Ecuador1986,,"15,314,143,988",1943,Generation X
+Ecuador,1986,female,15-24 years,74,923500,8.01,Ecuador1986,,"15,314,143,988",1943,Generation X
+Ecuador,1986,female,75+ years,4,50400,7.94,Ecuador1986,,"15,314,143,988",1943,G.I. Generation
+Ecuador,1986,male,35-54 years,52,712600,7.3,Ecuador1986,,"15,314,143,988",1943,Silent
+Ecuador,1986,female,25-34 years,28,618000,4.53,Ecuador1986,,"15,314,143,988",1943,Boomers
+Ecuador,1986,female,55-74 years,7,311800,2.25,Ecuador1986,,"15,314,143,988",1943,G.I. Generation
+Ecuador,1986,female,35-54 years,12,712600,1.68,Ecuador1986,,"15,314,143,988",1943,Silent
+Ecuador,1986,female,5-14 years,6,1298800,0.46,Ecuador1986,,"15,314,143,988",1943,Generation X
+Ecuador,1986,male,5-14 years,6,1345000,0.45,Ecuador1986,,"15,314,143,988",1943,Generation X
+Ecuador,1987,male,75+ years,6,52900,11.34,Ecuador1987,,"13,945,431,882",1669,G.I. Generation
+Ecuador,1987,male,25-34 years,74,718200,10.3,Ecuador1987,,"13,945,431,882",1669,Boomers
+Ecuador,1987,male,35-54 years,73,773400,9.44,Ecuador1987,,"13,945,431,882",1669,Silent
+Ecuador,1987,female,15-24 years,79,999500,7.9,Ecuador1987,,"13,945,431,882",1669,Generation X
+Ecuador,1987,male,15-24 years,78,1023900,7.62,Ecuador1987,,"13,945,431,882",1669,Generation X
+Ecuador,1987,male,55-74 years,20,318600,6.28,Ecuador1987,,"13,945,431,882",1669,G.I. Generation
+Ecuador,1987,female,25-34 years,26,708700,3.67,Ecuador1987,,"13,945,431,882",1669,Boomers
+Ecuador,1987,female,35-54 years,16,775400,2.06,Ecuador1987,,"13,945,431,882",1669,Silent
+Ecuador,1987,female,75+ years,1,65600,1.52,Ecuador1987,,"13,945,431,882",1669,G.I. Generation
+Ecuador,1987,female,55-74 years,5,338600,1.48,Ecuador1987,,"13,945,431,882",1669,G.I. Generation
+Ecuador,1987,male,5-14 years,8,1309500,0.61,Ecuador1987,,"13,945,431,882",1669,Generation X
+Ecuador,1987,female,5-14 years,4,1272500,0.31,Ecuador1987,,"13,945,431,882",1669,Generation X
+Ecuador,1988,male,25-34 years,93,738500,12.59,Ecuador1988,,"13,051,886,552",1519,Boomers
+Ecuador,1988,male,55-74 years,41,327400,12.52,Ecuador1988,,"13,051,886,552",1519,G.I. Generation
+Ecuador,1988,male,75+ years,6,54400,11.03,Ecuador1988,,"13,051,886,552",1519,G.I. Generation
+Ecuador,1988,male,15-24 years,107,1052900,10.16,Ecuador1988,,"13,051,886,552",1519,Generation X
+Ecuador,1988,male,35-54 years,73,795100,9.18,Ecuador1988,,"13,051,886,552",1519,Silent
+Ecuador,1988,female,15-24 years,73,1027900,7.1,Ecuador1988,,"13,051,886,552",1519,Generation X
+Ecuador,1988,female,25-34 years,28,728700,3.84,Ecuador1988,,"13,051,886,552",1519,Boomers
+Ecuador,1988,female,35-54 years,28,797400,3.51,Ecuador1988,,"13,051,886,552",1519,Silent
+Ecuador,1988,female,75+ years,2,67500,2.96,Ecuador1988,,"13,051,886,552",1519,G.I. Generation
+Ecuador,1988,female,55-74 years,6,348200,1.72,Ecuador1988,,"13,051,886,552",1519,G.I. Generation
+Ecuador,1988,female,5-14 years,5,1308600,0.38,Ecuador1988,,"13,051,886,552",1519,Generation X
+Ecuador,1988,male,5-14 years,4,1346600,0.3,Ecuador1988,,"13,051,886,552",1519,Generation X
+Ecuador,1989,male,75+ years,10,68674,14.56,Ecuador1989,,"13,890,828,708",1619,G.I. Generation
+Ecuador,1989,male,25-34 years,76,766852,9.91,Ecuador1989,,"13,890,828,708",1619,Boomers
+Ecuador,1989,female,15-24 years,89,1008927,8.82,Ecuador1989,,"13,890,828,708",1619,Generation X
+Ecuador,1989,male,35-54 years,71,843236,8.42,Ecuador1989,,"13,890,828,708",1619,Silent
+Ecuador,1989,male,55-74 years,26,347684,7.48,Ecuador1989,,"13,890,828,708",1619,G.I. Generation
+Ecuador,1989,male,15-24 years,77,1031979,7.46,Ecuador1989,,"13,890,828,708",1619,Generation X
+Ecuador,1989,female,25-34 years,39,758284,5.14,Ecuador1989,,"13,890,828,708",1619,Boomers
+Ecuador,1989,female,75+ years,3,84592,3.55,Ecuador1989,,"13,890,828,708",1619,G.I. Generation
+Ecuador,1989,female,35-54 years,23,848574,2.71,Ecuador1989,,"13,890,828,708",1619,Silent
+Ecuador,1989,female,55-74 years,5,368669,1.36,Ecuador1989,,"13,890,828,708",1619,G.I. Generation
+Ecuador,1989,male,5-14 years,7,1243682,0.56,Ecuador1989,,"13,890,828,708",1619,Generation X
+Ecuador,1989,female,5-14 years,5,1207466,0.41,Ecuador1989,,"13,890,828,708",1619,Generation X
+Ecuador,1990,male,25-34 years,89,788540,11.29,Ecuador1990,0.645,"15,239,278,100",1732,Boomers
+Ecuador,1990,male,15-24 years,97,1055004,9.19,Ecuador1990,0.645,"15,239,278,100",1732,Generation X
+Ecuador,1990,male,55-74 years,30,358877,8.36,Ecuador1990,0.645,"15,239,278,100",1732,G.I. Generation
+Ecuador,1990,female,15-24 years,84,1031235,8.15,Ecuador1990,0.645,"15,239,278,100",1732,Generation X
+Ecuador,1990,male,35-54 years,70,877120,7.98,Ecuador1990,0.645,"15,239,278,100",1732,Silent
+Ecuador,1990,female,25-34 years,42,779938,5.39,Ecuador1990,0.645,"15,239,278,100",1732,Boomers
+Ecuador,1990,male,75+ years,3,70844,4.23,Ecuador1990,0.645,"15,239,278,100",1732,G.I. Generation
+Ecuador,1990,female,75+ years,2,87254,2.29,Ecuador1990,0.645,"15,239,278,100",1732,G.I. Generation
+Ecuador,1990,female,35-54 years,17,883364,1.92,Ecuador1990,0.645,"15,239,278,100",1732,Silent
+Ecuador,1990,female,55-74 years,3,380666,0.79,Ecuador1990,0.645,"15,239,278,100",1732,G.I. Generation
+Ecuador,1990,male,5-14 years,6,1262625,0.48,Ecuador1990,0.645,"15,239,278,100",1732,Generation X
+Ecuador,1990,female,5-14 years,5,1225466,0.41,Ecuador1990,0.645,"15,239,278,100",1732,Generation X
+Ecuador,1991,female,15-24 years,117,1061400,11.02,Ecuador1991,,"16,988,535,268",1869,Generation X
+Ecuador,1991,male,55-74 years,37,368900,10.03,Ecuador1991,,"16,988,535,268",1869,Silent
+Ecuador,1991,male,15-24 years,107,1087300,9.84,Ecuador1991,,"16,988,535,268",1869,Generation X
+Ecuador,1991,male,35-54 years,83,899100,9.23,Ecuador1991,,"16,988,535,268",1869,Boomers
+Ecuador,1991,male,25-34 years,70,804000,8.71,Ecuador1991,,"16,988,535,268",1869,Boomers
+Ecuador,1991,male,75+ years,5,68100,7.34,Ecuador1991,,"16,988,535,268",1869,G.I. Generation
+Ecuador,1991,female,25-34 years,35,792300,4.42,Ecuador1991,,"16,988,535,268",1869,Boomers
+Ecuador,1991,female,55-74 years,9,392100,2.3,Ecuador1991,,"16,988,535,268",1869,Silent
+Ecuador,1991,female,35-54 years,18,903600,1.99,Ecuador1991,,"16,988,535,268",1869,Boomers
+Ecuador,1991,female,75+ years,1,86400,1.16,Ecuador1991,,"16,988,535,268",1869,G.I. Generation
+Ecuador,1991,female,5-14 years,9,1294500,0.7,Ecuador1991,,"16,988,535,268",1869,Millenials
+Ecuador,1991,male,5-14 years,3,1334000,0.22,Ecuador1991,,"16,988,535,268",1869,Millenials
+Ecuador,1992,male,75+ years,12,77846,15.42,Ecuador1992,,"18,094,238,119",1955,G.I. Generation
+Ecuador,1992,male,25-34 years,91,833688,10.92,Ecuador1992,,"18,094,238,119",1955,Boomers
+Ecuador,1992,male,55-74 years,40,380709,10.51,Ecuador1992,,"18,094,238,119",1955,Silent
+Ecuador,1992,male,15-24 years,114,1095624,10.41,Ecuador1992,,"18,094,238,119",1955,Generation X
+Ecuador,1992,female,15-24 years,92,1071397,8.59,Ecuador1992,,"18,094,238,119",1955,Generation X
+Ecuador,1992,male,35-54 years,69,945954,7.29,Ecuador1992,,"18,094,238,119",1955,Boomers
+Ecuador,1992,female,25-34 years,40,825399,4.85,Ecuador1992,,"18,094,238,119",1955,Boomers
+Ecuador,1992,female,75+ years,3,95162,3.15,Ecuador1992,,"18,094,238,119",1955,G.I. Generation
+Ecuador,1992,female,35-54 years,20,954268,2.1,Ecuador1992,,"18,094,238,119",1955,Boomers
+Ecuador,1992,female,5-14 years,13,1264449,1.03,Ecuador1992,,"18,094,238,119",1955,Millenials
+Ecuador,1992,female,55-74 years,4,404377,0.99,Ecuador1992,,"18,094,238,119",1955,Silent
+Ecuador,1992,male,5-14 years,7,1304282,0.54,Ecuador1992,,"18,094,238,119",1955,Millenials
+Ecuador,1993,female,15-24 years,131,1090454,12.01,Ecuador1993,,"18,938,717,359",1996,Generation X
+Ecuador,1993,male,25-34 years,102,857646,11.89,Ecuador1993,,"18,938,717,359",1996,Boomers
+Ecuador,1993,male,55-74 years,46,392963,11.71,Ecuador1993,,"18,938,717,359",1996,Silent
+Ecuador,1993,male,15-24 years,105,1115135,9.42,Ecuador1993,,"18,938,717,359",1996,Generation X
+Ecuador,1993,male,35-54 years,89,981892,9.06,Ecuador1993,,"18,938,717,359",1996,Boomers
+Ecuador,1993,female,25-34 years,40,849600,4.71,Ecuador1993,,"18,938,717,359",1996,Boomers
+Ecuador,1993,male,75+ years,3,80952,3.71,Ecuador1993,,"18,938,717,359",1996,G.I. Generation
+Ecuador,1993,female,35-54 years,32,991346,3.23,Ecuador1993,,"18,938,717,359",1996,Boomers
+Ecuador,1993,female,75+ years,2,98838,2.02,Ecuador1993,,"18,938,717,359",1996,G.I. Generation
+Ecuador,1993,female,55-74 years,8,417711,1.92,Ecuador1993,,"18,938,717,359",1996,Silent
+Ecuador,1993,female,5-14 years,9,1285346,0.7,Ecuador1993,,"18,938,717,359",1996,Millenials
+Ecuador,1993,male,5-14 years,7,1326600,0.53,Ecuador1993,,"18,938,717,359",1996,Millenials
+Ecuador,1994,male,75+ years,10,83900,11.92,Ecuador1994,,"22,708,673,337",2335,G.I. Generation
+Ecuador,1994,male,25-34 years,96,881672,10.89,Ecuador1994,,"22,708,673,337",2335,Boomers
+Ecuador,1994,male,35-54 years,96,1018423,9.43,Ecuador1994,,"22,708,673,337",2335,Boomers
+Ecuador,1994,male,55-74 years,36,406131,8.86,Ecuador1994,,"22,708,673,337",2335,Silent
+Ecuador,1994,female,15-24 years,95,1108840,8.57,Ecuador1994,,"22,708,673,337",2335,Generation X
+Ecuador,1994,male,15-24 years,91,1134121,8.02,Ecuador1994,,"22,708,673,337",2335,Generation X
+Ecuador,1994,female,25-34 years,39,873910,4.46,Ecuador1994,,"22,708,673,337",2335,Boomers
+Ecuador,1994,female,35-54 years,21,1029098,2.04,Ecuador1994,,"22,708,673,337",2335,Boomers
+Ecuador,1994,female,75+ years,1,102472,0.98,Ecuador1994,,"22,708,673,337",2335,G.I. Generation
+Ecuador,1994,female,5-14 years,12,1306032,0.92,Ecuador1994,,"22,708,673,337",2335,Millenials
+Ecuador,1994,male,5-14 years,12,1348611,0.89,Ecuador1994,,"22,708,673,337",2335,Millenials
+Ecuador,1994,female,55-74 years,3,432045,0.69,Ecuador1994,,"22,708,673,337",2335,Silent
+Ecuador,1995,male,25-34 years,97,905313,10.71,Ecuador1995,0.665,"24,432,884,442",2453,Generation X
+Ecuador,1995,male,15-24 years,113,1152675,9.8,Ecuador1995,0.665,"24,432,884,442",2453,Generation X
+Ecuador,1995,male,55-74 years,41,420246,9.76,Ecuador1995,0.665,"24,432,884,442",2453,Silent
+Ecuador,1995,male,35-54 years,101,1055363,9.57,Ecuador1995,0.665,"24,432,884,442",2453,Boomers
+Ecuador,1995,male,75+ years,8,86756,9.22,Ecuador1995,0.665,"24,432,884,442",2453,G.I. Generation
+Ecuador,1995,female,15-24 years,95,1126655,8.43,Ecuador1995,0.665,"24,432,884,442",2453,Generation X
+Ecuador,1995,female,25-34 years,43,897847,4.79,Ecuador1995,0.665,"24,432,884,442",2453,Generation X
+Ecuador,1995,female,35-54 years,24,1067369,2.25,Ecuador1995,0.665,"24,432,884,442",2453,Boomers
+Ecuador,1995,female,55-74 years,7,447404,1.56,Ecuador1995,0.665,"24,432,884,442",2453,Silent
+Ecuador,1995,female,75+ years,1,106143,0.94,Ecuador1995,0.665,"24,432,884,442",2453,G.I. Generation
+Ecuador,1995,female,5-14 years,10,1325533,0.75,Ecuador1995,0.665,"24,432,884,442",2453,Millenials
+Ecuador,1995,male,5-14 years,6,1369259,0.44,Ecuador1995,0.665,"24,432,884,442",2453,Millenials
+Ecuador,1996,male,55-74 years,53,434259,12.2,Ecuador1996,,"25,226,393,197",2474,Silent
+Ecuador,1996,male,75+ years,11,91455,12.03,Ecuador1996,,"25,226,393,197",2474,G.I. Generation
+Ecuador,1996,male,25-34 years,111,927403,11.97,Ecuador1996,,"25,226,393,197",2474,Generation X
+Ecuador,1996,male,15-24 years,126,1169923,10.77,Ecuador1996,,"25,226,393,197",2474,Generation X
+Ecuador,1996,female,15-24 years,102,1143710,8.92,Ecuador1996,,"25,226,393,197",2474,Generation X
+Ecuador,1996,male,35-54 years,88,1091980,8.06,Ecuador1996,,"25,226,393,197",2474,Boomers
+Ecuador,1996,female,25-34 years,46,920330,5,Ecuador1996,,"25,226,393,197",2474,Generation X
+Ecuador,1996,female,55-74 years,9,462818,1.94,Ecuador1996,,"25,226,393,197",2474,Silent
+Ecuador,1996,female,35-54 years,21,1105412,1.9,Ecuador1996,,"25,226,393,197",2474,Boomers
+Ecuador,1996,female,75+ years,2,111706,1.79,Ecuador1996,,"25,226,393,197",2474,G.I. Generation
+Ecuador,1996,female,5-14 years,17,1345854,1.26,Ecuador1996,,"25,226,393,197",2474,Millenials
+Ecuador,1996,male,5-14 years,7,1390998,0.5,Ecuador1996,,"25,226,393,197",2474,Millenials
+Ecuador,1997,male,25-34 years,109,949086,11.48,Ecuador1997,,"28,162,053,027",2701,Generation X
+Ecuador,1997,male,15-24 years,124,1186873,10.45,Ecuador1997,,"28,162,053,027",2701,Generation X
+Ecuador,1997,male,75+ years,9,95968,9.38,Ecuador1997,,"28,162,053,027",2701,G.I. Generation
+Ecuador,1997,male,35-54 years,99,1128260,8.77,Ecuador1997,,"28,162,053,027",2701,Boomers
+Ecuador,1997,female,15-24 years,101,1160292,8.7,Ecuador1997,,"28,162,053,027",2701,Generation X
+Ecuador,1997,male,55-74 years,35,449276,7.79,Ecuador1997,,"28,162,053,027",2701,Silent
+Ecuador,1997,female,25-34 years,33,942471,3.5,Ecuador1997,,"28,162,053,027",2701,Generation X
+Ecuador,1997,female,35-54 years,24,1143235,2.1,Ecuador1997,,"28,162,053,027",2701,Boomers
+Ecuador,1997,female,5-14 years,24,1364640,1.76,Ecuador1997,,"28,162,053,027",2701,Millenials
+Ecuador,1997,female,55-74 years,6,479370,1.25,Ecuador1997,,"28,162,053,027",2701,Silent
+Ecuador,1997,male,5-14 years,14,1411124,0.99,Ecuador1997,,"28,162,053,027",2701,Millenials
+Ecuador,1997,female,75+ years,1,117178,0.85,Ecuador1997,,"28,162,053,027",2701,G.I. Generation
+Ecuador,1998,male,25-34 years,113,970170,11.65,Ecuador1998,,"27,981,896,948",2626,Generation X
+Ecuador,1998,male,15-24 years,122,1204061,10.13,Ecuador1998,,"27,981,896,948",2626,Generation X
+Ecuador,1998,female,15-24 years,102,1176841,8.67,Ecuador1998,,"27,981,896,948",2626,Generation X
+Ecuador,1998,male,75+ years,8,100363,7.97,Ecuador1998,,"27,981,896,948",2626,G.I. Generation
+Ecuador,1998,male,35-54 years,87,1164711,7.47,Ecuador1998,,"27,981,896,948",2626,Boomers
+Ecuador,1998,male,55-74 years,29,464944,6.24,Ecuador1998,,"27,981,896,948",2626,Silent
+Ecuador,1998,female,25-34 years,29,964037,3.01,Ecuador1998,,"27,981,896,948",2626,Generation X
+Ecuador,1998,female,75+ years,3,122653,2.45,Ecuador1998,,"27,981,896,948",2626,G.I. Generation
+Ecuador,1998,female,35-54 years,24,1181335,2.03,Ecuador1998,,"27,981,896,948",2626,Boomers
+Ecuador,1998,male,5-14 years,14,1429190,0.98,Ecuador1998,,"27,981,896,948",2626,Millenials
+Ecuador,1998,female,5-14 years,12,1381485,0.87,Ecuador1998,,"27,981,896,948",2626,Millenials
+Ecuador,1998,female,55-74 years,3,496656,0.6,Ecuador1998,,"27,981,896,948",2626,Silent
+Ecuador,1999,male,75+ years,13,104728,12.41,Ecuador1999,,"19,645,272,636",1805,G.I. Generation
+Ecuador,1999,male,15-24 years,138,1222195,11.29,Ecuador1999,,"19,645,272,636",1805,Generation X
+Ecuador,1999,male,25-34 years,103,990403,10.4,Ecuador1999,,"19,645,272,636",1805,Generation X
+Ecuador,1999,male,55-74 years,45,480747,9.36,Ecuador1999,,"19,645,272,636",1805,Silent
+Ecuador,1999,male,35-54 years,105,1202249,8.73,Ecuador1999,,"19,645,272,636",1805,Boomers
+Ecuador,1999,female,15-24 years,96,1194004,8.04,Ecuador1999,,"19,645,272,636",1805,Generation X
+Ecuador,1999,female,25-34 years,37,984732,3.76,Ecuador1999,,"19,645,272,636",1805,Generation X
+Ecuador,1999,female,35-54 years,27,1220621,2.21,Ecuador1999,,"19,645,272,636",1805,Boomers
+Ecuador,1999,female,55-74 years,11,514092,2.14,Ecuador1999,,"19,645,272,636",1805,Silent
+Ecuador,1999,male,5-14 years,22,1445034,1.52,Ecuador1999,,"19,645,272,636",1805,Millenials
+Ecuador,1999,female,5-14 years,18,1396226,1.29,Ecuador1999,,"19,645,272,636",1805,Millenials
+Ecuador,1999,female,75+ years,1,128252,0.78,Ecuador1999,,"19,645,272,636",1805,G.I. Generation
+Ecuador,2000,male,15-24 years,132,1241587,10.63,Ecuador2000,0.674,"18,327,764,882",1650,Generation X
+Ecuador,2000,male,25-34 years,84,1009657,8.32,Ecuador2000,0.674,"18,327,764,882",1650,Generation X
+Ecuador,2000,male,35-54 years,101,1241310,8.14,Ecuador2000,0.674,"18,327,764,882",1650,Boomers
+Ecuador,2000,male,75+ years,8,109133,7.33,Ecuador2000,0.674,"18,327,764,882",1650,G.I. Generation
+Ecuador,2000,male,55-74 years,30,496455,6.04,Ecuador2000,0.674,"18,327,764,882",1650,Silent
+Ecuador,2000,female,15-24 years,73,1212096,6.02,Ecuador2000,0.674,"18,327,764,882",1650,Generation X
+Ecuador,2000,female,25-34 years,45,1004357,4.48,Ecuador2000,0.674,"18,327,764,882",1650,Generation X
+Ecuador,2000,female,35-54 years,23,1261528,1.82,Ecuador2000,0.674,"18,327,764,882",1650,Boomers
+Ecuador,2000,female,55-74 years,9,531381,1.69,Ecuador2000,0.674,"18,327,764,882",1650,Silent
+Ecuador,2000,male,5-14 years,16,1458807,1.1,Ecuador2000,0.674,"18,327,764,882",1650,Millenials
+Ecuador,2000,female,5-14 years,12,1408985,0.85,Ecuador2000,0.674,"18,327,764,882",1650,Millenials
+Ecuador,2000,female,75+ years,1,134087,0.75,Ecuador2000,0.674,"18,327,764,882",1650,G.I. Generation
+Ecuador,2001,male,75+ years,15,114564,13.09,Ecuador2001,,"24,468,324,000",2160,Silent
+Ecuador,2001,male,15-24 years,130,1259528,10.32,Ecuador2001,,"24,468,324,000",2160,Millenials
+Ecuador,2001,male,25-34 years,101,1026201,9.84,Ecuador2001,,"24,468,324,000",2160,Generation X
+Ecuador,2001,male,35-54 years,99,1281560,7.72,Ecuador2001,,"24,468,324,000",2160,Boomers
+Ecuador,2001,male,55-74 years,39,510933,7.63,Ecuador2001,,"24,468,324,000",2160,Silent
+Ecuador,2001,female,15-24 years,86,1229361,7,Ecuador2001,,"24,468,324,000",2160,Millenials
+Ecuador,2001,female,25-34 years,38,1021003,3.72,Ecuador2001,,"24,468,324,000",2160,Generation X
+Ecuador,2001,female,35-54 years,32,1303530,2.45,Ecuador2001,,"24,468,324,000",2160,Boomers
+Ecuador,2001,female,55-74 years,10,547445,1.83,Ecuador2001,,"24,468,324,000",2160,Silent
+Ecuador,2001,female,75+ years,2,140505,1.42,Ecuador2001,,"24,468,324,000",2160,Silent
+Ecuador,2001,female,5-14 years,17,1421482,1.2,Ecuador2001,,"24,468,324,000",2160,Millenials
+Ecuador,2001,male,5-14 years,15,1472216,1.02,Ecuador2001,,"24,468,324,000",2160,Millenials
+Ecuador,2002,male,15-24 years,132,1279199,10.32,Ecuador2002,,"28,548,945,000",2472,Millenials
+Ecuador,2002,male,75+ years,12,119896,10.01,Ecuador2002,,"28,548,945,000",2472,Silent
+Ecuador,2002,male,25-34 years,89,1041783,8.54,Ecuador2002,,"28,548,945,000",2472,Generation X
+Ecuador,2002,male,35-54 years,109,1323268,8.24,Ecuador2002,,"28,548,945,000",2472,Boomers
+Ecuador,2002,male,55-74 years,39,525419,7.42,Ecuador2002,,"28,548,945,000",2472,Silent
+Ecuador,2002,female,15-24 years,91,1248096,7.29,Ecuador2002,,"28,548,945,000",2472,Millenials
+Ecuador,2002,female,25-34 years,31,1036659,2.99,Ecuador2002,,"28,548,945,000",2472,Generation X
+Ecuador,2002,female,35-54 years,27,1347026,2,Ecuador2002,,"28,548,945,000",2472,Boomers
+Ecuador,2002,female,5-14 years,23,1432629,1.61,Ecuador2002,,"28,548,945,000",2472,Millenials
+Ecuador,2002,female,55-74 years,7,563516,1.24,Ecuador2002,,"28,548,945,000",2472,Silent
+Ecuador,2002,male,5-14 years,16,1484308,1.08,Ecuador2002,,"28,548,945,000",2472,Millenials
+Ecuador,2002,female,75+ years,1,146971,0.68,Ecuador2002,,"28,548,945,000",2472,Silent
+Ecuador,2003,male,35-54 years,148,1365415,10.84,Ecuador2003,,"32,432,858,000",2755,Boomers
+Ecuador,2003,male,15-24 years,138,1300272,10.61,Ecuador2003,,"32,432,858,000",2755,Millenials
+Ecuador,2003,female,15-24 years,120,1267956,9.46,Ecuador2003,,"32,432,858,000",2755,Millenials
+Ecuador,2003,male,25-34 years,96,1056829,9.08,Ecuador2003,,"32,432,858,000",2755,Generation X
+Ecuador,2003,male,55-74 years,49,540808,9.06,Ecuador2003,,"32,432,858,000",2755,Silent
+Ecuador,2003,male,75+ years,11,125204,8.79,Ecuador2003,,"32,432,858,000",2755,Silent
+Ecuador,2003,female,25-34 years,47,1051741,4.47,Ecuador2003,,"32,432,858,000",2755,Generation X
+Ecuador,2003,female,75+ years,5,153579,3.26,Ecuador2003,,"32,432,858,000",2755,Silent
+Ecuador,2003,female,35-54 years,23,1390993,1.65,Ecuador2003,,"32,432,858,000",2755,Boomers
+Ecuador,2003,female,5-14 years,20,1442546,1.39,Ecuador2003,,"32,432,858,000",2755,Millenials
+Ecuador,2003,female,55-74 years,7,580521,1.21,Ecuador2003,,"32,432,858,000",2755,Silent
+Ecuador,2003,male,5-14 years,11,1495138,0.74,Ecuador2003,,"32,432,858,000",2755,Millenials
+Ecuador,2004,male,75+ years,17,130553,13.02,Ecuador2004,,"36,591,661,000",3051,Silent
+Ecuador,2004,male,25-34 years,137,1071828,12.78,Ecuador2004,,"36,591,661,000",3051,Generation X
+Ecuador,2004,male,15-24 years,165,1321925,12.48,Ecuador2004,,"36,591,661,000",3051,Millenials
+Ecuador,2004,male,55-74 years,68,558388,12.18,Ecuador2004,,"36,591,661,000",3051,Silent
+Ecuador,2004,female,15-24 years,127,1288166,9.86,Ecuador2004,,"36,591,661,000",3051,Millenials
+Ecuador,2004,male,35-54 years,138,1406412,9.81,Ecuador2004,,"36,591,661,000",3051,Boomers
+Ecuador,2004,female,25-34 years,36,1066713,3.37,Ecuador2004,,"36,591,661,000",3051,Generation X
+Ecuador,2004,female,75+ years,5,160427,3.12,Ecuador2004,,"36,591,661,000",3051,Silent
+Ecuador,2004,female,5-14 years,30,1451359,2.07,Ecuador2004,,"36,591,661,000",3051,Millenials
+Ecuador,2004,male,5-14 years,30,1504779,1.99,Ecuador2004,,"36,591,661,000",3051,Millenials
+Ecuador,2004,female,35-54 years,27,1433784,1.88,Ecuador2004,,"36,591,661,000",3051,Boomers
+Ecuador,2004,female,55-74 years,11,599819,1.83,Ecuador2004,,"36,591,661,000",3051,Silent
+Ecuador,2005,male,75+ years,23,136021,16.91,Ecuador2005,0.698,"41,507,085,000",3397,Silent
+Ecuador,2005,male,15-24 years,206,1343527,15.33,Ecuador2005,0.698,"41,507,085,000",3397,Millenials
+Ecuador,2005,male,25-34 years,150,1087218,13.8,Ecuador2005,0.698,"41,507,085,000",3397,Generation X
+Ecuador,2005,male,35-54 years,197,1445306,13.63,Ecuador2005,0.698,"41,507,085,000",3397,Boomers
+Ecuador,2005,male,55-74 years,73,578971,12.61,Ecuador2005,0.698,"41,507,085,000",3397,Silent
+Ecuador,2005,female,15-24 years,140,1308175,10.7,Ecuador2005,0.698,"41,507,085,000",3397,Millenials
+Ecuador,2005,female,25-34 years,44,1081983,4.07,Ecuador2005,0.698,"41,507,085,000",3397,Generation X
+Ecuador,2005,female,35-54 years,35,1474429,2.37,Ecuador2005,0.698,"41,507,085,000",3397,Boomers
+Ecuador,2005,male,5-14 years,34,1513146,2.25,Ecuador2005,0.698,"41,507,085,000",3397,Millenials
+Ecuador,2005,female,55-74 years,13,622240,2.09,Ecuador2005,0.698,"41,507,085,000",3397,Silent
+Ecuador,2005,female,5-14 years,26,1458992,1.78,Ecuador2005,0.698,"41,507,085,000",3397,Millenials
+Ecuador,2005,female,75+ years,2,167635,1.19,Ecuador2005,0.698,"41,507,085,000",3397,Silent
+Ecuador,2006,male,75+ years,23,140891,16.32,Ecuador2006,,"46,802,044,000",3759,Silent
+Ecuador,2006,male,25-34 years,154,1105682,13.93,Ecuador2006,,"46,802,044,000",3759,Generation X
+Ecuador,2006,male,55-74 years,74,601278,12.31,Ecuador2006,,"46,802,044,000",3759,Silent
+Ecuador,2006,female,15-24 years,153,1327824,11.52,Ecuador2006,,"46,802,044,000",3759,Millenials
+Ecuador,2006,male,15-24 years,156,1363891,11.44,Ecuador2006,,"46,802,044,000",3759,Millenials
+Ecuador,2006,male,35-54 years,166,1486091,11.17,Ecuador2006,,"46,802,044,000",3759,Boomers
+Ecuador,2006,female,25-34 years,49,1100246,4.45,Ecuador2006,,"46,802,044,000",3759,Generation X
+Ecuador,2006,female,35-54 years,46,1516824,3.03,Ecuador2006,,"46,802,044,000",3759,Boomers
+Ecuador,2006,female,55-74 years,18,646356,2.78,Ecuador2006,,"46,802,044,000",3759,Silent
+Ecuador,2006,female,75+ years,4,173865,2.3,Ecuador2006,,"46,802,044,000",3759,Silent
+Ecuador,2006,female,5-14 years,28,1465783,1.91,Ecuador2006,,"46,802,044,000",3759,Millenials
+Ecuador,2006,male,5-14 years,29,1520643,1.91,Ecuador2006,,"46,802,044,000",3759,Millenials
+Ecuador,2007,male,15-24 years,235,1383302,16.99,Ecuador2007,,"51,007,777,000",4024,Millenials
+Ecuador,2007,male,55-74 years,92,626501,14.68,Ecuador2007,,"51,007,777,000",4024,Silent
+Ecuador,2007,male,25-34 years,157,1123771,13.97,Ecuador2007,,"51,007,777,000",4024,Generation X
+Ecuador,2007,male,75+ years,18,145654,12.36,Ecuador2007,,"51,007,777,000",4024,Silent
+Ecuador,2007,male,35-54 years,184,1525177,12.06,Ecuador2007,,"51,007,777,000",4024,Boomers
+Ecuador,2007,female,15-24 years,135,1346416,10.03,Ecuador2007,,"51,007,777,000",4024,Millenials
+Ecuador,2007,female,25-34 years,53,1118153,4.74,Ecuador2007,,"51,007,777,000",4024,Generation X
+Ecuador,2007,male,5-14 years,45,1526432,2.95,Ecuador2007,,"51,007,777,000",4024,Generation Z
+Ecuador,2007,female,55-74 years,19,673563,2.82,Ecuador2007,,"51,007,777,000",4024,Silent
+Ecuador,2007,female,35-54 years,42,1557413,2.7,Ecuador2007,,"51,007,777,000",4024,Boomers
+Ecuador,2007,female,5-14 years,23,1470813,1.56,Ecuador2007,,"51,007,777,000",4024,Generation Z
+Ecuador,2007,female,75+ years,2,180159,1.11,Ecuador2007,,"51,007,777,000",4024,Silent
+Ecuador,2008,male,75+ years,31,150423,20.61,Ecuador2008,,"61,762,635,000",4787,Silent
+Ecuador,2008,male,15-24 years,209,1401816,14.91,Ecuador2008,,"61,762,635,000",4787,Millenials
+Ecuador,2008,male,25-34 years,170,1142009,14.89,Ecuador2008,,"61,762,635,000",4787,Generation X
+Ecuador,2008,male,55-74 years,81,654092,12.38,Ecuador2008,,"61,762,635,000",4787,Silent
+Ecuador,2008,male,35-54 years,158,1563128,10.11,Ecuador2008,,"61,762,635,000",4787,Boomers
+Ecuador,2008,female,15-24 years,107,1363932,7.84,Ecuador2008,,"61,762,635,000",4787,Millenials
+Ecuador,2008,female,25-34 years,48,1136196,4.22,Ecuador2008,,"61,762,635,000",4787,Generation X
+Ecuador,2008,female,55-74 years,24,703291,3.41,Ecuador2008,,"61,762,635,000",4787,Silent
+Ecuador,2008,female,35-54 years,53,1596786,3.32,Ecuador2008,,"61,762,635,000",4787,Boomers
+Ecuador,2008,male,5-14 years,24,1530626,1.57,Ecuador2008,,"61,762,635,000",4787,Generation Z
+Ecuador,2008,female,5-14 years,22,1474229,1.49,Ecuador2008,,"61,762,635,000",4787,Generation Z
+Ecuador,2008,female,75+ years,1,186655,0.54,Ecuador2008,,"61,762,635,000",4787,Silent
+Ecuador,2009,male,25-34 years,179,1161180,15.42,Ecuador2009,,"62,519,686,000",4762,Generation X
+Ecuador,2009,male,55-74 years,103,683190,15.08,Ecuador2009,,"62,519,686,000",4762,Silent
+Ecuador,2009,male,15-24 years,214,1419517,15.08,Ecuador2009,,"62,519,686,000",4762,Millenials
+Ecuador,2009,male,75+ years,20,155307,12.88,Ecuador2009,,"62,519,686,000",4762,Silent
+Ecuador,2009,male,35-54 years,180,1600987,11.24,Ecuador2009,,"62,519,686,000",4762,Boomers
+Ecuador,2009,female,15-24 years,100,1380435,7.24,Ecuador2009,,"62,519,686,000",4762,Millenials
+Ecuador,2009,female,75+ years,9,193481,4.65,Ecuador2009,,"62,519,686,000",4762,Silent
+Ecuador,2009,female,25-34 years,48,1155088,4.16,Ecuador2009,,"62,519,686,000",4762,Generation X
+Ecuador,2009,female,35-54 years,48,1636049,2.93,Ecuador2009,,"62,519,686,000",4762,Boomers
+Ecuador,2009,female,55-74 years,20,734615,2.72,Ecuador2009,,"62,519,686,000",4762,Silent
+Ecuador,2009,male,5-14 years,23,1533769,1.5,Ecuador2009,,"62,519,686,000",4762,Generation Z
+Ecuador,2009,female,5-14 years,20,1476543,1.35,Ecuador2009,,"62,519,686,000",4762,Generation Z
+Ecuador,2010,male,15-24 years,214,1436267,14.9,Ecuador2010,0.717,"69,555,367,000",5206,Millenials
+Ecuador,2010,male,25-34 years,171,1181648,14.47,Ecuador2010,0.717,"69,555,367,000",5206,Generation X
+Ecuador,2010,male,35-54 years,165,1639225,10.07,Ecuador2010,0.717,"69,555,367,000",5206,Generation X
+Ecuador,2010,male,55-74 years,68,713198,9.53,Ecuador2010,0.717,"69,555,367,000",5206,Silent
+Ecuador,2010,male,75+ years,14,160404,8.73,Ecuador2010,0.717,"69,555,367,000",5206,Silent
+Ecuador,2010,female,15-24 years,113,1395797,8.1,Ecuador2010,0.717,"69,555,367,000",5206,Millenials
+Ecuador,2010,female,25-34 years,60,1175139,5.11,Ecuador2010,0.717,"69,555,367,000",5206,Generation X
+Ecuador,2010,female,75+ years,6,200768,2.99,Ecuador2010,0.717,"69,555,367,000",5206,Silent
+Ecuador,2010,female,55-74 years,18,766861,2.35,Ecuador2010,0.717,"69,555,367,000",5206,Silent
+Ecuador,2010,female,35-54 years,39,1675740,2.33,Ecuador2010,0.717,"69,555,367,000",5206,Generation X
+Ecuador,2010,male,5-14 years,26,1536680,1.69,Ecuador2010,0.717,"69,555,367,000",5206,Generation Z
+Ecuador,2010,female,5-14 years,18,1478558,1.22,Ecuador2010,0.717,"69,555,367,000",5206,Generation Z
+Ecuador,2011,male,15-24 years,200,1449571,13.8,Ecuador2011,0.723,"79,276,664,000",5836,Millenials
+Ecuador,2011,male,25-34 years,161,1202963,13.38,Ecuador2011,0.723,"79,276,664,000",5836,Millenials
+Ecuador,2011,male,55-74 years,83,741610,11.19,Ecuador2011,0.723,"79,276,664,000",5836,Boomers
+Ecuador,2011,male,75+ years,18,166244,10.83,Ecuador2011,0.723,"79,276,664,000",5836,Silent
+Ecuador,2011,male,35-54 years,160,1677115,9.54,Ecuador2011,0.723,"79,276,664,000",5836,Generation X
+Ecuador,2011,female,15-24 years,120,1408696,8.52,Ecuador2011,0.723,"79,276,664,000",5836,Millenials
+Ecuador,2011,female,25-34 years,51,1195816,4.26,Ecuador2011,0.723,"79,276,664,000",5836,Millenials
+Ecuador,2011,female,35-54 years,45,1715068,2.62,Ecuador2011,0.723,"79,276,664,000",5836,Generation X
+Ecuador,2011,female,5-14 years,32,1480934,2.16,Ecuador2011,0.723,"79,276,664,000",5836,Generation Z
+Ecuador,2011,male,5-14 years,32,1539867,2.08,Ecuador2011,0.723,"79,276,664,000",5836,Generation Z
+Ecuador,2011,female,75+ years,4,208097,1.92,Ecuador2011,0.723,"79,276,664,000",5836,Silent
+Ecuador,2011,female,55-74 years,12,797572,1.5,Ecuador2011,0.723,"79,276,664,000",5836,Boomers
+Ecuador,2012,male,15-24 years,240,1462193,16.41,Ecuador2012,0.727,"87,924,544,000",6364,Millenials
+Ecuador,2012,male,25-34 years,164,1225594,13.38,Ecuador2012,0.727,"87,924,544,000",6364,Millenials
+Ecuador,2012,male,55-74 years,87,771426,11.28,Ecuador2012,0.727,"87,924,544,000",6364,Boomers
+Ecuador,2012,male,75+ years,19,172083,11.04,Ecuador2012,0.727,"87,924,544,000",6364,Silent
+Ecuador,2012,male,35-54 years,162,1715827,9.44,Ecuador2012,0.727,"87,924,544,000",6364,Generation X
+Ecuador,2012,female,15-24 years,118,1420727,8.31,Ecuador2012,0.727,"87,924,544,000",6364,Millenials
+Ecuador,2012,female,25-34 years,55,1217762,4.52,Ecuador2012,0.727,"87,924,544,000",6364,Millenials
+Ecuador,2012,female,35-54 years,48,1755189,2.73,Ecuador2012,0.727,"87,924,544,000",6364,Generation X
+Ecuador,2012,male,5-14 years,39,1544899,2.52,Ecuador2012,0.727,"87,924,544,000",6364,Generation Z
+Ecuador,2012,female,75+ years,4,215613,1.86,Ecuador2012,0.727,"87,924,544,000",6364,Silent
+Ecuador,2012,female,5-14 years,27,1484824,1.82,Ecuador2012,0.727,"87,924,544,000",6364,Generation Z
+Ecuador,2012,female,55-74 years,13,829724,1.57,Ecuador2012,0.727,"87,924,544,000",6364,Boomers
+Ecuador,2013,male,75+ years,23,178094,12.91,Ecuador2013,0.73,"95,129,659,000",6769,Silent
+Ecuador,2013,male,15-24 years,156,1473845,10.58,Ecuador2013,0.73,"95,129,659,000",6769,Millenials
+Ecuador,2013,male,25-34 years,111,1248815,8.89,Ecuador2013,0.73,"95,129,659,000",6769,Millenials
+Ecuador,2013,male,55-74 years,65,802441,8.1,Ecuador2013,0.73,"95,129,659,000",6769,Boomers
+Ecuador,2013,female,15-24 years,89,1431562,6.22,Ecuador2013,0.73,"95,129,659,000",6769,Millenials
+Ecuador,2013,male,35-54 years,106,1755019,6.04,Ecuador2013,0.73,"95,129,659,000",6769,Generation X
+Ecuador,2013,female,25-34 years,30,1240273,2.42,Ecuador2013,0.73,"95,129,659,000",6769,Millenials
+Ecuador,2013,male,5-14 years,29,1551821,1.87,Ecuador2013,0.73,"95,129,659,000",6769,Generation Z
+Ecuador,2013,female,35-54 years,32,1795728,1.78,Ecuador2013,0.73,"95,129,659,000",6769,Generation X
+Ecuador,2013,female,55-74 years,12,863112,1.39,Ecuador2013,0.73,"95,129,659,000",6769,Boomers
+Ecuador,2013,female,75+ years,3,223521,1.34,Ecuador2013,0.73,"95,129,659,000",6769,Silent
+Ecuador,2013,female,5-14 years,20,1490382,1.34,Ecuador2013,0.73,"95,129,659,000",6769,Generation Z
+Ecuador,2014,male,75+ years,25,184452,13.55,Ecuador2014,0.732,"101,726,331,000",7116,Silent
+Ecuador,2014,male,15-24 years,164,1484064,11.05,Ecuador2014,0.732,"101,726,331,000",7116,Millenials
+Ecuador,2014,male,25-34 years,123,1271545,9.67,Ecuador2014,0.732,"101,726,331,000",7116,Millenials
+Ecuador,2014,male,55-74 years,74,834436,8.87,Ecuador2014,0.732,"101,726,331,000",7116,Boomers
+Ecuador,2014,male,35-54 years,153,1794205,8.53,Ecuador2014,0.732,"101,726,331,000",7116,Generation X
+Ecuador,2014,female,15-24 years,77,1440731,5.34,Ecuador2014,0.732,"101,726,331,000",7116,Millenials
+Ecuador,2014,female,25-34 years,33,1262288,2.61,Ecuador2014,0.732,"101,726,331,000",7116,Millenials
+Ecuador,2014,male,5-14 years,28,1560323,1.79,Ecuador2014,0.732,"101,726,331,000",7116,Generation Z
+Ecuador,2014,female,55-74 years,16,897482,1.78,Ecuador2014,0.732,"101,726,331,000",7116,Boomers
+Ecuador,2014,female,5-14 years,18,1497410,1.2,Ecuador2014,0.732,"101,726,331,000",7116,Generation Z
+Ecuador,2014,female,35-54 years,22,1836144,1.2,Ecuador2014,0.732,"101,726,331,000",7116,Generation X
+Ecuador,2014,female,75+ years,1,232065,0.43,Ecuador2014,0.732,"101,726,331,000",7116,Silent
+Ecuador,2015,male,75+ years,40,191306,20.91,Ecuador2015,,"99,290,381,000",6832,Silent
+Ecuador,2015,male,15-24 years,234,1492713,15.68,Ecuador2015,,"99,290,381,000",6832,Millenials
+Ecuador,2015,male,25-34 years,185,1293193,14.31,Ecuador2015,,"99,290,381,000",6832,Millenials
+Ecuador,2015,male,55-74 years,108,867314,12.45,Ecuador2015,,"99,290,381,000",6832,Boomers
+Ecuador,2015,male,35-54 years,205,1833181,11.18,Ecuador2015,,"99,290,381,000",6832,Generation X
+Ecuador,2015,female,15-24 years,110,1448112,7.6,Ecuador2015,,"99,290,381,000",6832,Millenials
+Ecuador,2015,female,25-34 years,56,1283175,4.36,Ecuador2015,,"99,290,381,000",6832,Millenials
+Ecuador,2015,female,35-54 years,46,1876229,2.45,Ecuador2015,,"99,290,381,000",6832,Generation X
+Ecuador,2015,female,55-74 years,22,932718,2.36,Ecuador2015,,"99,290,381,000",6832,Boomers
+Ecuador,2015,male,5-14 years,35,1569519,2.23,Ecuador2015,,"99,290,381,000",6832,Generation Z
+Ecuador,2015,female,75+ years,5,241437,2.07,Ecuador2015,,"99,290,381,000",6832,Silent
+Ecuador,2015,female,5-14 years,27,1505127,1.79,Ecuador2015,,"99,290,381,000",6832,Generation Z
