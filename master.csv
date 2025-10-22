@@ -1,4 +1,4 @@
-﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year,gdp_per_capita,generation
+﻿country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year,gdp_for_year,gdp_per_capita,generation
 Ecuador,1985,male,75+ years,8,40000,20,Ecuador1985,0.631,"17,149,094,590",2238,G.I. Generation
 Ecuador,1985,male,25-34 years,70,610800,11.46,Ecuador1985,0.631,"17,149,094,590",2238,Boomers
 Ecuador,1985,male,55-74 years,33,289000,11.42,Ecuador1985,0.631,"17,149,094,590",2238,G.I. Generation
@@ -372,3 +372,4 @@ Ecuador,2015,male,5-14 years,35,1569519,2.23,Ecuador2015,,"99,290,381,000",6832,
 Ecuador,2015,female,75+ years,5,241437,2.07,Ecuador2015,,"99,290,381,000",6832,Silent
 
 Ecuador,2015,female,5-14 years,27,1505127,1.79,Ecuador2015,,"99,290,381,000",6832,Generation Z
+
